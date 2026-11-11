@@ -8,7 +8,7 @@ s
 
 ### Detalles del Proyecto
 
-* **Actividad:** Ejercicios Actividad 2
+* **Actividad:** Ejercicios Actividad 4
 * **Estudiante:** Juan Diego Cifuentes Oliva
 * **Docente:** Walter H. Arboleda
 
