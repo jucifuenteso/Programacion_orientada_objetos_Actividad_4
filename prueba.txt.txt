@@ -1,0 +1,4 @@
+
+-------------------------------------------------------------------
+Línea 1: Prueba de lectura secuencial de texto.
+Línea 2:  Lectura completada correctamente.
